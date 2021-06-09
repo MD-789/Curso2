@@ -1,2 +1,2 @@
 linea1.rama1
-linea2
+linea2.master
